@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Mabimtest"
+		},
+		{
+			"path": "../latihan_ci4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MabimFasilkom"
+	}
+}
